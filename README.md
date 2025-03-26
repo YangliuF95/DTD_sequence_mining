@@ -1,4 +1,4 @@
-# sequence_mining_dtd
+# DTD_sequence_mining
 
 
 ## Repository structure
@@ -6,7 +6,7 @@ This is the repository for the article "Exploring temporal dynamics in digital t
   
 - **Code ✔**: contains Python and R code used to wrangle, analyze, and visualize the data described in our manuscript.
 - **Figures ✔**: includes visualizations generated from our analyses. 
-- **Data ?**: Due to the sensitive nature of our dataset, we are unable to provide direct access to the data used in this study. We include a detailed description in the manuscript and encourage researchers to apply our framework and code to your own datasets.
+- **Data ❓**: Due to the sensitive nature of our dataset, we are unable to provide direct access to the data used in this study. We include a detailed description in the manuscript and encourage researchers to apply our framework and code to your own datasets.
 
 
 ## Installation
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the code to run your analyses, navigate to the `code` folder and launch Jupyter Notebook:
+To use the code for your analyses, navigate to the `code` folder and launch Jupyter Notebook:
 
 ```bash
 cd code
