@@ -11,9 +11,12 @@ This is the repository for the article "Exploring temporal dynamics in digital t
     - (4) network analysis,
     - (5) process mining models,
     - (6) language-based models.
+
+  *Note: Some notebook outputs were cleared for privacy protection of the user data.*
+
 - **Figures ✔**: includes visualizations generated from our analyses. 
 - **Data ❓**: Due to the sensitive nature of our dataset, we are unable to provide direct access to the data used in this study. We include a detailed description in the manuscript and encourage researchers to apply our framework and code to your own datasets.
-   *Note: Some notebook outputs were cleared for privacy protection of the user data.*
+   
 ## Studying digital trace data as user-sequences 
 
 In this study, we argue for an analytical scheme that *chronologically* orders user interactions with the media environment into one dimension and employs computational approaches to explore the inter-activity dependence that considers individual activities in the contexts of other activities.
